@@ -10,7 +10,9 @@
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link rel="stylesheet" href="/style.css">
-
+    <!--JQuery CDN-->
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
     <!-- Custom Fonts -->
     <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
     <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
@@ -36,7 +38,7 @@
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
                   <i class="fa fa-graduation-cap" aria-hidden="true"></i>
-  <span class="light">Ikram</span>Farooqui
+                  <span class="light">Ikram</span>Farooqui
                 </a>
             </div>
 
@@ -96,7 +98,7 @@
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h2>See Resume</h2>
-                    <p><b>Currently open for <i style="color:#af0e0e">Freelancing</i> and <i style="color:#af0e0e">new opportunities</i></b></p>
+                    <p id="messageToHrs"><b>Currently open for <i style="color:#af0e0e">Freelancing</i> and <i style="color:#af0e0e">new opportunities</i></b></p>
                     <a id ="Resume" class="btn btn-default btn-lg">Get résumé</a>
                 </div>
             </div>
@@ -147,5 +149,17 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="/js/grayscale.js"></script>
+        
+        <!--To display error message-->
+        <script>
+            $("#Resume").on("Click", ()=>{
+                $("#messageToHrs").html(<p id="messageToHrs"> <b style="color:#af0e0e">Sorry for inconvinience !!</b></p>);
+             setTimeout(function(){ 
+             $("#messageToHrs").html(
+             <p id="messageToHrs"><b>Currently open for <i style="color:#af0e0e">Freelancing</i> and <i style="color:#af0e0e">new opportunities</i></b></p>
+             );
+             }, 3000);
+            })
+        </script>
     </body>
 </html>
