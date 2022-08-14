@@ -2,63 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://farqtech.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://farqtech.github.io/about/</loc>
   </url><url>
     <loc>https://farqtech.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://farqtech.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-8/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://farqtech.github.io/jobpreferences/</loc>
   </url><url>
     <loc>https://farqtech.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-7/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-6/</loc>
-    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-4/</loc>
-    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-3/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/procrastinating/</loc>
-    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-2/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/space/</loc>
-    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/tags/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://farqtech.github.io/about/</loc>
   </url>
 </urlset>
