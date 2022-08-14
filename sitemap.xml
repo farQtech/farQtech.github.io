@@ -2,12 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://farqtech.github.io/about/</loc>
+    <loc>https://farqtech.github.io/posts/life-post-1/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
     <loc>https://farqtech.github.io/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
-    <loc>https://farqtech.github.io/jobpreferences/</loc>
+    <loc>https://farqtech.github.io/tags/lifelession/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
+  </url><url>
+    <loc>https://farqtech.github.io/posts/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
     <loc>https://farqtech.github.io/tags/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
+  </url><url>
+    <loc>https://farqtech.github.io/about/</loc>
+  </url><url>
+    <loc>https://farqtech.github.io/jobpreferences/</loc>
   </url>
 </urlset>
