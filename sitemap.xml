@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://farqtech.github.io/about/</loc>
-    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
-  </url><url>
     <loc>https://farqtech.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -61,5 +58,7 @@
   </url><url>
     <loc>https://farqtech.github.io/tags/todo/</loc>
     <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://farqtech.github.io/about/</loc>
   </url>
 </urlset>
