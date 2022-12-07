@@ -53,7 +53,7 @@ const DoodleJs = new function () {
         event.preventDefault();
 
         // mouse left button must be pressed
-        if (mouseEvent.buttons !== 1) return;
+        // if (mouseEvent.buttons !== 1) return;
 
         ctx.beginPath(); // begin
 
@@ -79,7 +79,7 @@ const DoodleJs = new function () {
         // redraw
         pointsToSave.forEach(point => {
             // mouse left button must be pressed
-            if (point.mouseEvent.buttons !== 1) return;
+            // if (point.mouseEvent.buttons !== 1) return;
 
             ctx.beginPath(); // begin
 
